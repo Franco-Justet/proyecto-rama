@@ -1,1 +1,3 @@
-"Havilidad 1: ceba mate\nHabilidad 2: toma mate\nHabilidad 3 : se quema con el mate" 
+Havilidad 1: ceba mate 
+Habilidad 2: toma mate
+Habilidad 3 : se quema con el mate 
